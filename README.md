@@ -5,7 +5,7 @@ based on the filename up to first Space character.
 
 ![Screenshot of tool in use in CMD window](images/window.png)
 
-![Screenshot of resulting Excel file](images/excel.png)
+![Screenshot of resulting Excel file](images/excel_example.png)
 
 ### Terminal text coloring
 Based on this Stack Overflow thread and comments: https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal
